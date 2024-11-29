@@ -57,9 +57,15 @@ The processed results are saved into respective output files.
 - **`re`**- Regular Expressions
 - **`collections`**- Counter
 
+## Recommended Versions
+
+- **`python`**- here used version 3.12.3
+
 ---
 
 ### **Installation:**
+
+- clone the repository to local pc
 
 ```python
     pip install nltk
